@@ -20,7 +20,7 @@
 
 <!-- ════════════════════ HERO — exact Landing.tsx layout ════════════════════ -->
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<table width="auto%" border="0" cellspacing="0" cellpadding="0">
 <tr>
 <td width="38%" valign="middle">
 
